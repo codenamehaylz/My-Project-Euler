@@ -1,5 +1,5 @@
 # My Project Euler
-This is a personal repository containing my solutions to the Project Euler coding challenges.
+This is a personal repository containing my solutions to the [Project Euler](https://projecteuler.net/archives) coding challenges.
 
 I am using Python as that is the language I'm currently learning. I may come back and add solutions in other languages.
 
